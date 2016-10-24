@@ -24,7 +24,7 @@ RemoveShadows theme: https://git.io/v6MuU IMPORTANT: Activate on top of a ClearV
 :root {
 	--main-color: #e62727;
 	--hover-color: #b31e1e;
-	--background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/images/ruby.jpg); /* IMPORTANT: Link must be HTTPS! */
+	--background-image: url(https://images5.alphacoders.com/609/609173.jpg); /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
